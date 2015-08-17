@@ -6,6 +6,17 @@
     <description>Most recent changes with links to updates.</description>
     <language>zh-hant</language>
       <item>
+        <title>0.3.3</title>
+        <sparkle:releaseNotesLink>https://hypo.github.io/HypoAppPublic/releasenotes.html</sparkle:releaseNotesLink>
+        <pubDate>Mon, 17 Aug 2015 12:38:32 +8000</pubDate>
+        <enclosure 
+          url="https://hypo.github.io/HypoAppPublic/Hypo-0.3.3.app.zip" 
+          sparkle:shortVersionString="0.3.3"
+          sparkle:version="62"
+          length="2090889" 
+          type="application/octet-stream"/>
+      </item>
+      <item>
         <title>0.3.2</title>
         <sparkle:releaseNotesLink>https://hypo.github.io/HypoAppPublic/releasenotes.html</sparkle:releaseNotesLink>
         <pubDate>Mon, 17 Aug 2015 12:17:48 +8000</pubDate>
