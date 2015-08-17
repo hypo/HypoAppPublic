@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Hypo App Public</title>
+    <link>https://hypo.github.com/HypoAppPublic/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>zh-hant</language>
+      <item>
+        <title>0.3.0</title>
+        <sparkle:releaseNotesLink>https://hypo.github.com/HypoAppPublic/releasenotes.html</sparkle:releaseNotesLink>
+        <pubDate>Sat, 26 Jul 2015 15:20:11 +0000</pubDate>
+        <enclosure url="https://hypo.github.com/HypoAppPublic/Hypo-0.3.0.app.zip" sparkle:version="2.0" length="2090790" type="application/octet-stream"/>
+      </item>
+  </channel>
+</rss>
