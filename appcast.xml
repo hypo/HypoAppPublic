@@ -8,6 +8,17 @@
       <item>
         <title>0.3.7</title>
         <sparkle:releaseNotesLink>https://hypo.github.io/HypoAppPublic/releasenotes.html</sparkle:releaseNotesLink>
+        <pubDate>Mon, 31 Aug 2015 17:43:55 +8000</pubDate>
+        <enclosure 
+          url="https://hypo.github.io/HypoAppPublic/hypo-0.3.7-104.app.zip" 
+          sparkle:shortVersionString="0.3.7"
+          sparkle:version="104"
+          length="4598726" 
+          type="application/octet-stream"/>
+      </item>
+      <item>
+        <title>0.3.7</title>
+        <sparkle:releaseNotesLink>https://hypo.github.io/HypoAppPublic/releasenotes.html</sparkle:releaseNotesLink>
         <pubDate>Mon, 31 Aug 2015 12:13:26 +8000</pubDate>
         <enclosure 
           url="https://hypo.github.io/HypoAppPublic/Hypo-0.3.7.app.zip" 
