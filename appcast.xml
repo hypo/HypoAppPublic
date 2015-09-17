@@ -10,7 +10,7 @@
         <sparkle:releaseNotesLink>https://hypo.github.io/HypoAppPublic/releasenotes.html</sparkle:releaseNotesLink>
         <pubDate>Thu, 17 Sep 2015 22:03:28 +8000</pubDate>
         <enclosure 
-          url="https://hypo.github.io/HypoAppPublic/hypo-0.5.1.app.zip" 
+          url="https://hypo.github.io/HypoAppPublic/hypo-0.5.1.app.tbz" 
           sparkle:shortVersionString="0.5.1"
           sparkle:version="140"
           length="1542864"
